@@ -1,0 +1,19 @@
+{
+  "name": "js-warmup-workout",
+  "version": "1.0.0",
+  "description": "javascript exercises to warm you up before your interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruler05/javascript-workout.git"
+  },
+  "author": "Gaurav Bansode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gruler05/javascript-workout/issues"
+  },
+  "homepage": "https://github.com/gruler05/javascript-workout#readme"
+}
